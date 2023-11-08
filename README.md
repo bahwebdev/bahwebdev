@@ -14,6 +14,9 @@
 <a href="https://twitter.com/bah_adonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bah_adonis" height="20" width="20" /></a>
   &nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abubakarr-bah-148629234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abubakarr-bah-148629234/" height="20" width="20"/></a>
+&nbsp;
+<a href="https://fb.com/facebook.com/bahdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/bahdev10" height="25" width="25" /></a>
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
